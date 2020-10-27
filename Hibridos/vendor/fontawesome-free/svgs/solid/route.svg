@@ -1,0 +1,9 @@
+spend</Priv>
+    <Priv id="VirtualMachine.Interact.ToolsInstall">VirtualMachine.Interact.ToolsInstall</Priv>
+    <Priv id="VirtualMachine.Inventory.Create">VirtualMachine.Inventory.Create</Priv>
+    <Priv id="VirtualMachine.Inventory.CreateFromExisting">VirtualMachine.Inventory.CreateFromExisting</Priv>
+    <Priv id="VirtualMachine.Inventory.Delete">VirtualMachine.Inventory.Delete</Priv>
+    <Priv id="VirtualMachine.Inventory.Register">VirtualMachine.Inventory.Register</Priv>
+    <Priv id="VirtualMachine.Inventory.Unregister">VirtualMachine.Inventory.Unregister</Priv>
+    <Priv id="VirtualMachine.Provisioning.GetVmFiles">VirtualMachine.Provisioning.GetVmFiles</Priv>
+    <Priv id="VirtualMachine.Provisioning.PutVmFiles">Virtua
